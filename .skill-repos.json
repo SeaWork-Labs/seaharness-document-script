@@ -1,0 +1,7 @@
+{
+  "slug": "seaharness-document-script",
+  "displayName": "seaharness-document-script",
+  "description": "Full Codex-class DOCX authoring pack: task playbooks, OOXML helpers, writing quality, Google Docs sanitizer, and one python-docx builder plus document_open(publish=true). HTML/Markdown/FolkDoc still use document_create.",
+  "releaseVersion": "2.0.4",
+  "authorVersion": null
+}
